@@ -1,6 +1,6 @@
 # Discourse Character Sheet
 
-A [Claude Code](https://claude.ai/claude-code) plugin that generates RPG character sheets from Discourse forum activity.
+A Claude Code plugin that generates RPG character sheets from Discourse forum activity.
 
 Analyzes a user's posts to derive stats, abilities, debuffs, inventory, quests, and party dynamics — then outputs a markdown character sheet and an interactive HTML character page.
 
