@@ -36,10 +36,6 @@ Examples:
 - [Claude Code](https://claude.ai/claude-code)
 - A Discourse MCP server configured for the target site
 
-## Portrait
-
-The HTML page references `{username}-character-portrait.png` in the same directory. Generate pixel art separately (Might and Magic III style works well) and save it with that filename.
-
 ## Example
 
 ![Character sheet screenshot](https://github.com/nolosb/discourse-character-sheet/raw/main/example.png)
