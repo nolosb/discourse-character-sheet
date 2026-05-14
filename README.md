@@ -17,12 +17,6 @@ claude plugin install discourse-character-sheet@discourse-character-sheet --scop
 /discourse-character-sheet <username> <discourse-site-url> [timeframe]
 ```
 
-Examples:
-
-```
-/discourse-character-sheet bryce https://dev.discourse.org last 6 months
-/discourse-character-sheet hawk https://meta.discourse.org 2025
-```
 
 ## What it does
 
