@@ -1,0 +1,15 @@
+{
+  "name": "discourse-character-sheet",
+  "description": "RPG character sheets from Discourse forum activity",
+  "owner": {
+    "name": "nolosb"
+  },
+  "plugins": [
+    {
+      "name": "discourse-character-sheet",
+      "description": "Generate RPG character sheets from Discourse forum activity",
+      "source": "./discourse-character-sheet",
+      "version": "20260514"
+    }
+  ]
+}

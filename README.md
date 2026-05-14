@@ -1,4 +1,4 @@
-# Character Sheet
+# Discourse Character Sheet
 
 A [Claude Code](https://claude.ai/claude-code) plugin that generates RPG character sheets from Discourse forum activity.
 
@@ -7,20 +7,21 @@ Analyzes a user's posts to derive stats, abilities, debuffs, inventory, quests, 
 ## Install
 
 ```
-claude plugin add nolosb/character-sheet
+claude plugin marketplace add nolosb/discourse-character-sheet
+claude plugin install discourse-character-sheet@discourse-character-sheet --scope user
 ```
 
 ## Usage
 
 ```
-/character-sheet <username> <discourse-site-url> [timeframe]
+/discourse-character-sheet <username> <discourse-site-url> [timeframe]
 ```
 
 Examples:
 
 ```
-/character-sheet bryce https://dev.discourse.org last 6 months
-/character-sheet hawk https://meta.discourse.org 2025
+/discourse-character-sheet bryce https://dev.discourse.org last 6 months
+/discourse-character-sheet hawk https://meta.discourse.org 2025
 ```
 
 ## What it does
@@ -41,4 +42,4 @@ The HTML page references `{username}-character-portrait.png` in the same directo
 
 ## Example
 
-![Character sheet screenshot](https://github.com/nolosb/character-sheet/raw/main/example.png)
+![Character sheet screenshot](https://github.com/nolosb/discourse-character-sheet/raw/main/example.png)

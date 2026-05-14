@@ -1,5 +1,5 @@
 ---
-name: character-sheet
+name: discourse-character-sheet
 description: This skill should be used when the user asks to "generate a character sheet", "build a character", "RPG character", "character page", or wants to turn Discourse forum activity into an RPG-style character with stats, abilities, and an interactive HTML page.
 version: 20260514
 argument-hint: <username> <site-url> [timeframe]
