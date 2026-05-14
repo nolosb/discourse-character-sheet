@@ -1,0 +1,7 @@
+{
+  "name": "character-sheet",
+  "description": "Generate RPG character sheets from Discourse forum activity — stats, abilities, debuffs, quests, and an interactive HTML page",
+  "author": {
+    "name": "nolosb"
+  }
+}
