@@ -64,14 +64,14 @@ user choose.
 
 #### 3a. Character Identity
 
-Propose a **Name**, **Family**, **Trade**, and **Main Trait** based on the analysis.
+Propose a **Name**, **Family**, **Trade**, and **Temper** based on the analysis.
 
 The class system has three parts:
 - **Family**: Where they come from / how they're positioned (e.g., Borderlander,
   Guildmaster, Wayfinder, Sentinel, Chronicler)
 - **Trade**: What they build / their craft (e.g., Artificer, Architect, Forgehand,
   Scribe, Cartographer)
-- **Main Trait**: How they influence others (e.g., Field Bard, Truthsayer,
+- **Temper**: How they influence others (e.g., Field Bard, Truthsayer,
   Tactician, Hearthkeeper, Signalfire)
 
 Each should have a one-line description explaining why it fits. Offer 2-3 options
@@ -157,7 +157,7 @@ Use this structure:
 **Name:** [Character Name]
 **Family:** [Family] — [description]
 **Trade:** [Trade] — [description]
-**Main Trait:** [Trait] — [description]
+**Temper:** [Temper] — [description]
 
 **Level:** [N]
 **Alignment:** [Alignment]
@@ -754,7 +754,7 @@ marked with [BRACKETS]. Do not change the CSS, class names, or structure.
       <div class="tags">
         <span class="tag"><span class="tag-label">Family:</span> [FAMILY NAME]</span>
         <span class="tag"><span class="tag-label">Trade:</span> [TRADE NAME]</span>
-        <span class="tag"><span class="tag-label">Trait:</span> [TRAIT NAME]</span>
+        <span class="tag"><span class="tag-label">Temper:</span> [TEMPER NAME]</span>
       </div>
       <div class="level-alignment">Level [N] &middot; [ALIGNMENT]</div>
     </div>
@@ -789,9 +789,9 @@ marked with [BRACKETS]. Do not change the CSS, class names, or structure.
         </div>
 
         <div class="class-detail">
-          <div class="class-detail-label">Main Trait</div>
-          <div class="class-detail-name">[TRAIT NAME]</div>
-          <div class="class-detail-desc">[TRAIT DESCRIPTION]</div>
+          <div class="class-detail-label">Temper</div>
+          <div class="class-detail-name">[TEMPER NAME]</div>
+          <div class="class-detail-desc">[TEMPER DESCRIPTION]</div>
         </div>
       </div>
 
